@@ -1,15 +1,1 @@
-/d* - list all files that begin with the letter "d" in a given directory. Can work for any letter, number, ".", etc.
-
-head/text: display the first (former) or last (later) few lines of a file.
-Ex: tail /etc/services
-
-Locate vs whereis vs find
-
-Locate: searches for files anywhere on a system.
-Ex: locate Spotify
-
-Whereis: Locates the program, sources code and manual page for a command.
-Ex: whereis ls
-
-Find: can be used to find files matching certain patterns.
-Ex: find . - name \*mp3 ... looks for files with "mp3" at the end of their names.
+alphabet = ["a”, “b”, “c”, “d", "e”, “f”, “g”, “h”, “i”, “j”, “k”, “l”, “m”, “n”, “o”, “p”, “q”, “r”, “s”, “t”, “u”, “v”, “w”, “x”, “y”, “z"]
